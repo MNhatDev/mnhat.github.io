@@ -1,0 +1,6 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\IF_else\Baitap_dangnhapuser\Baitap_dangnhapuser\bin\Debug\Baitap_dangnhapuser.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\IF_else\Baitap_dangnhapuser\Baitap_dangnhapuser\bin\Debug\Baitap_dangnhapuser.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\IF_else\Baitap_dangnhapuser\Baitap_dangnhapuser\bin\Debug\Baitap_dangnhapuser.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\IF_else\Baitap_dangnhapuser\Baitap_dangnhapuser\obj\Debug\Baitap_dangnhapuser.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\IF_else\Baitap_dangnhapuser\Baitap_dangnhapuser\obj\Debug\Baitap_dangnhapuser.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\IF_else\Baitap_dangnhapuser\Baitap_dangnhapuser\obj\Debug\Baitap_dangnhapuser.pdb

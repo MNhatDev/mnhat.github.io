@@ -1,0 +1,6 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\class_OPP\class_OPP\bin\Debug\class_OPP.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\class_OPP\class_OPP\obj\Debug\class_OPP.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\class_OPP\class_OPP\bin\Debug\class_OPP.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\class_OPP\class_OPP\bin\Debug\class_OPP.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\class_OPP\class_OPP\obj\Debug\class_OPP.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\class_OPP\class_OPP\obj\Debug\class_OPP.pdb

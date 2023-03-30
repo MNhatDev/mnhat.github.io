@@ -1,0 +1,14 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\bin\Debug\netcoreapp3.1\OPP_5.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\bin\Debug\netcoreapp3.1\OPP_5.deps.json
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\bin\Debug\netcoreapp3.1\OPP_5.runtimeconfig.json
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\bin\Debug\netcoreapp3.1\OPP_5.runtimeconfig.dev.json
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\bin\Debug\netcoreapp3.1\OPP_5.dll
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\bin\Debug\netcoreapp3.1\OPP_5.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.csproj.AssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.AssemblyInfoInputs.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.AssemblyInfo.cs
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.csproj.CoreCompileInputs.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.dll
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_5\OPP_5\obj\Debug\netcoreapp3.1\OPP_5.genruntimeconfig.cache

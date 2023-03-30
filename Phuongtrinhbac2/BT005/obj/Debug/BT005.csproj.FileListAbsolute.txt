@@ -1,0 +1,9 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT005\BT005\bin\Debug\BT005.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT005\BT005\obj\Debug\BT005.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT005\BT005\bin\Debug\BT005.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT005\BT005\bin\Debug\BT005.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT005\BT005\obj\Debug\BT005.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT005\BT005\obj\Debug\BT005.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\Phuongtrinhbac2\BT005\bin\Debug\BT005.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\Phuongtrinhbac2\BT005\obj\Debug\BT005.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\Phuongtrinhbac2\BT005\obj\Debug\BT005.pdb

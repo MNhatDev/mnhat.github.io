@@ -1,0 +1,6 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\MiniGame_Bua_Keo_Bao\MiniGame_Bua_Keo_Bao\bin\Debug\MiniGame_Bua_Keo_Bao.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\MiniGame_Bua_Keo_Bao\MiniGame_Bua_Keo_Bao\bin\Debug\MiniGame_Bua_Keo_Bao.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\MiniGame_Bua_Keo_Bao\MiniGame_Bua_Keo_Bao\bin\Debug\MiniGame_Bua_Keo_Bao.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\MiniGame_Bua_Keo_Bao\MiniGame_Bua_Keo_Bao\obj\Debug\MiniGame_Bua_Keo_Bao.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\MiniGame_Bua_Keo_Bao\MiniGame_Bua_Keo_Bao\obj\Debug\MiniGame_Bua_Keo_Bao.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\MiniGame_Bua_Keo_Bao\MiniGame_Bua_Keo_Bao\obj\Debug\MiniGame_Bua_Keo_Bao.csprojResolveAssemblyReference.cache

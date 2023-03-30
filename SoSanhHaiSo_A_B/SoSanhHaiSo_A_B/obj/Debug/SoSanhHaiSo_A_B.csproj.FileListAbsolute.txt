@@ -1,0 +1,6 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\SoSanhHaiSo_A_B\SoSanhHaiSo_A_B\bin\Debug\SoSanhHaiSo_A_B.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\SoSanhHaiSo_A_B\SoSanhHaiSo_A_B\obj\Debug\SoSanhHaiSo_A_B.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\SoSanhHaiSo_A_B\SoSanhHaiSo_A_B\bin\Debug\SoSanhHaiSo_A_B.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\SoSanhHaiSo_A_B\SoSanhHaiSo_A_B\bin\Debug\SoSanhHaiSo_A_B.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\SoSanhHaiSo_A_B\SoSanhHaiSo_A_B\obj\Debug\SoSanhHaiSo_A_B.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\SoSanhHaiSo_A_B\SoSanhHaiSo_A_B\obj\Debug\SoSanhHaiSo_A_B.pdb

@@ -1,0 +1,6 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT004\BT004\bin\Debug\BT004.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT004\BT004\bin\Debug\BT004.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT004\BT004\bin\Debug\BT004.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT004\BT004\obj\Debug\BT004.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT004\BT004\obj\Debug\BT004.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT004\BT004\obj\Debug\BT004.pdb

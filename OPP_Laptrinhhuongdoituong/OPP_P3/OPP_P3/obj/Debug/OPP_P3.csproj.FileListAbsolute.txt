@@ -1,0 +1,6 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_P3\OPP_P3\bin\Debug\OPP_P3.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_P3\OPP_P3\bin\Debug\OPP_P3.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_P3\OPP_P3\bin\Debug\OPP_P3.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_P3\OPP_P3\obj\Debug\OPP_P3.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_P3\OPP_P3\obj\Debug\OPP_P3.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\OPP_Laptrinhhuongdoituong\OPP_P3\OPP_P3\obj\Debug\OPP_P3.csprojResolveAssemblyReference.cache

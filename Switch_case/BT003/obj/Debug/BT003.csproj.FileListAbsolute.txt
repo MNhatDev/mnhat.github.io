@@ -1,0 +1,9 @@
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT003\BT003\bin\Debug\BT003.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT003\BT003\bin\Debug\BT003.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT003\BT003\bin\Debug\BT003.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT003\BT003\obj\Debug\BT003.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT003\BT003\obj\Debug\BT003.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\BT003\BT003\obj\Debug\BT003.pdb
+C:\Users\duong\Desktop\Kholuubaitap\C#\Switch_case\BT003\bin\Debug\BT003.exe.config
+C:\Users\duong\Desktop\Kholuubaitap\C#\Switch_case\BT003\obj\Debug\BT003.exe
+C:\Users\duong\Desktop\Kholuubaitap\C#\Switch_case\BT003\obj\Debug\BT003.pdb
